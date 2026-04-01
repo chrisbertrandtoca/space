@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "id": "ea1733c4-bbb1-4e2b-ac1c-8ebc243ec629",
+    "contentHash": "DD1qrLNeM7hn3kSI20JB9TpccFsFopyV/xfmhVgHDO0=",
+    "platformVersion": "10.0.0",
+    "revisionId": "92183c9b-1594-4111-8284-3935849c1a67",
+    "updatedAt": "2026-04-01T13:27:27Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "createdAt": "2026-04-01T13:27:16Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "branch": "main"
+  },
+  "content": {
+    "projectId": "4fa2bada-0665-40f8-a9ad-ce0fdca297d3",
+    "description": "asd",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "8b7507d8-919b-46b2-bb5f-c0b7beadedf5",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022merge it in\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "activityServiceType": "Stateless",
+    "workspaceId": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
+    "resourceId": "ea1733c4-bbb1-4e2b-ac1c-8ebc243ec629",
+    "name": "bb2"
+  }
+}
