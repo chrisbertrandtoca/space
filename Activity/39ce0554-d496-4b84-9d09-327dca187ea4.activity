@@ -1,13 +1,13 @@
 {
   "metadata": {
     "id": "39ce0554-d496-4b84-9d09-327dca187ea4",
-    "contentHash": "0xv4Geh78x9Q\u002BVTVVU0MIK/\u002B2QiYm49paCwow30XRms=",
+    "contentHash": "tZD9uvZHolK1ZTLYhB2ZCHeCX6ZzxZdFJ6xPXzMVYjQ=",
     "platformVersion": "10.0.0",
-    "revisionId": "f8cc9a28-657a-4e18-9507-d44f83aad694",
     "updatedAt": "0001-01-01T00:00:00Z",
+    "updatedBy": "",
     "createdAt": "2026-04-01T13:25:47Z",
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
-    "branch": "main"
+    "branch": "next"
   },
   "content": {
     "projectId": "4fa2bada-0665-40f8-a9ad-ce0fdca297d3",
