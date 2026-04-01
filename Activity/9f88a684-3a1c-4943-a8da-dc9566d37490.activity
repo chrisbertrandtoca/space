@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "id": "9f88a684-3a1c-4943-a8da-dc9566d37490",
+    "contentHash": "rosjQHjcrjeZ0NZEP7z0uUIemaHgU910O/wzBC754sE=",
+    "platformVersion": "10.0.0",
+    "revisionId": "3833a5ec-08b6-4956-941b-5caaca895a0e",
+    "updatedAt": "2026-04-01T14:57:31Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "createdAt": "2026-04-01T14:57:17Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "branch": "main"
+  },
+  "content": {
+    "projectId": "4fa2bada-0665-40f8-a9ad-ce0fdca297d3",
+    "description": "c3",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "C#",
+        "type": "ExecuteCSharp",
+        "version": "1.0.5",
+        "actionId": "105dd961-4eea-4793-b1ad-ae25774b2d05",
+        "actionDefinitionActionId": "89d89be6-4d2c-44e0-8f63-e4ea5b53e3bf",
+        "parameters": [
+          {
+            "key": "command-chip",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "command",
+            "type": "String",
+            "value": "\u0022// does nothing\u0022"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "redacted",
+            "type": "Boolean",
+            "value": "false"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "activityServiceType": "Stateless",
+    "workspaceId": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
+    "resourceId": "9f88a684-3a1c-4943-a8da-dc9566d37490",
+    "name": "c3"
+  }
+}
