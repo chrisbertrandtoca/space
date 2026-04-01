@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "id": "4fa2bada-0665-40f8-a9ad-ce0fdca297d3",
+    "contentHash": "2dlEX8dSJYLdMc5NgMMDythWZTbTwiD2Nkj4OxWB0\u002Bc=",
+    "platformVersion": "10.0.0",
+    "revisionId": "91d5d09c-6b7b-4891-976e-d38f1603e1f8",
+    "updatedAt": "0001-01-01T00:00:00Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "createdAt": "2026-04-01T13:25:42Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "branch": "main"
+  },
+  "content": {
+    "projectId": "4fa2bada-0665-40f8-a9ad-ce0fdca297d3",
+    "description": "a1",
+    "associatedUsers": [
+      "cb3e6503-0240-4df6-87d6-5afff481116d"
+    ],
+    "actionGroups": [],
+    "workspaceId": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
+    "resourceId": "4fa2bada-0665-40f8-a9ad-ce0fdca297d3",
+    "name": "a1"
+  }
+}

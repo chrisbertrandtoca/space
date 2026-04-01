@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
+    "contentHash": "NpVF87CB8Uv4hmb/netLpL6ZsOkidZyCQaVfNXXS1wk=",
+    "platformVersion": "10.0.0",
+    "updatedAt": "2026-04-01T13:25:35Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "createdAt": "2026-04-01T13:25:35Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "branch": "main"
+  },
+  "content": {
+    "id": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
+    "accent": "#22502f",
+    "route": "testing-space",
+    "description": "asdasd",
+    "workspaceId": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
+    "resourceId": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
+    "name": "testing space"
+  }
+}

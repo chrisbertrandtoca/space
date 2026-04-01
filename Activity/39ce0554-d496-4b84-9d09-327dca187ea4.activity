@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "id": "39ce0554-d496-4b84-9d09-327dca187ea4",
+    "contentHash": "0xv4Geh78x9Q\u002BVTVVU0MIK/\u002B2QiYm49paCwow30XRms=",
+    "platformVersion": "10.0.0",
+    "revisionId": "f8cc9a28-657a-4e18-9507-d44f83aad694",
+    "updatedAt": "0001-01-01T00:00:00Z",
+    "createdAt": "2026-04-01T13:25:47Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "branch": "main"
+  },
+  "content": {
+    "projectId": "4fa2bada-0665-40f8-a9ad-ce0fdca297d3",
+    "description": "aa1",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "activityServiceType": "Stateless",
+    "workspaceId": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
+    "resourceId": "39ce0554-d496-4b84-9d09-327dca187ea4",
+    "name": "aa1"
+  }
+}
