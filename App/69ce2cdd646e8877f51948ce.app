@@ -44,7 +44,7 @@
         "id": "2a2350e1-f55e-4805-9618-c8a0a5115205",
         "pageId": "69ce51344858db9bdf01d9b2",
         "pageEntityId": "b2fd0467-3de0-42ef-b1ab-06c6c2e99ad5",
-        "slug": "page-2",
+        "slug": "page-two",
         "name": "page two",
         "restricted": true,
         "parameters": [
