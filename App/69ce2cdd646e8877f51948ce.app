@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "69ce2cdd646e8877f51948ce",
-    "contentHash": "f/ub9EOZZw2vyxZx80dpX5R\u002B8/2XgHmSbxrVCMOd5e4=",
+    "contentHash": "dpRQ0w/k50wytbVvW3LcalzBPFzYQPOk1rHjArQWGwc=",
     "platformVersion": "10.0.0",
-    "revisionId": "e20ad72c-66a3-420b-8b10-9f24491f4ccb",
-    "updatedAt": "2026-04-02T11:59:30Z",
+    "revisionId": "3f2c5f8f-1899-4be9-83d8-4095f72b1d84",
+    "updatedAt": "2026-04-02T12:02:55Z",
     "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "createdAt": "2026-04-02T08:46:21Z",
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
@@ -45,7 +45,7 @@
         "pageId": "69ce51344858db9bdf01d9b2",
         "pageEntityId": "b2fd0467-3de0-42ef-b1ab-06c6c2e99ad5",
         "slug": "page-2",
-        "name": "page 2 - edit",
+        "name": "page two",
         "restricted": true,
         "parameters": [
           {
