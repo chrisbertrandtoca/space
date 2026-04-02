@@ -1,9 +1,10 @@
 {
   "metadata": {
     "id": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
-    "contentHash": "q0ORsR7itQR\u002BY3hV/VGCBhKGGrvGJoXah4KgzmcBoZo=",
+    "contentHash": "qM0mAEnFDCyJF6JoBWBPN1X4AWYo3Hl7q9SHnFftKBg=",
     "platformVersion": "10.0.0",
-    "updatedAt": "2026-04-01T13:25:35Z",
+    "revisionId": "2d73f8a0-7eb1-4d78-ae70-3afa0c31f653",
+    "updatedAt": "2026-04-01T14:59:40Z",
     "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "createdAt": "2026-04-01T13:25:35Z",
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
@@ -14,6 +15,7 @@
     "accent": "#22502f",
     "route": "testing-space",
     "description": "asdasd",
+    "repositoryUrl": "https://github.com/chrisbertrandtoca/space.git",
     "workspaceId": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
     "resourceId": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
     "name": "testing space"

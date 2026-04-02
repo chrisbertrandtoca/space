@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "69ce2cdd646e8877f51948ce",
-    "contentHash": "cqGERtvvOOTQ\u002BOk\u002B5OoGYgXGwb6uIYm3p9jIfYKSh\u002BM=",
+    "contentHash": "pgQaA2ihEVYyUfGffgGFNRzzlsZaoHRdwWYWkh3QICA=",
     "platformVersion": "10.0.0",
-    "revisionId": "c8291aad-def4-46b8-bc76-0700e29fc8bf",
-    "updatedAt": "2026-04-02T08:46:23Z",
+    "revisionId": "f13feb31-c645-4f0f-befe-423e4a840135",
+    "updatedAt": "2026-04-02T11:21:25Z",
     "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "createdAt": "2026-04-02T08:46:21Z",
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
@@ -39,6 +39,43 @@
         "slug": "login",
         "name": "Login",
         "parameters": []
+      },
+      {
+        "id": "2a2350e1-f55e-4805-9618-c8a0a5115205",
+        "pageId": "69ce51344858db9bdf01d9b2",
+        "pageEntityId": "b2fd0467-3de0-42ef-b1ab-06c6c2e99ad5",
+        "slug": "page-2",
+        "name": "page 2",
+        "restricted": true,
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean"
+          }
+        ]
       }
     ],
     "dependencies": [],

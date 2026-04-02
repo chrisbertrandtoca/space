@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "id": "b2fd0467-3de0-42ef-b1ab-06c6c2e99ad5",
+    "contentHash": "TTzQfb8sRfWmb5Z9EOsuSLB92pQUs2HNiQB2xGpdF8s=",
+    "platformVersion": "10.0.0",
+    "revisionId": "baae5805-d9a8-46d0-a628-04227b0a36d9",
+    "updatedAt": "2026-04-02T11:21:42Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "createdAt": "2026-04-02T11:21:24Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "branch": "next"
+  },
+  "content": {
+    "pageId": "b2fd0467-3de0-42ef-b1ab-06c6c2e99ad5",
+    "dashBoardId": "69ce2cdd646e8877f51948ce",
+    "title": "page 2",
+    "layout": "{\u0022version\u0022:\u00222\u0022,\u0022rootComponentId\u0022:\u0022937cf44b-7adc-40a9-938e-e5411579eccb\u0022,\u0022components\u0022:{\u0022937cf44b-7adc-40a9-938e-e5411579eccb\u0022:{\u0022id\u0022:\u0022937cf44b-7adc-40a9-938e-e5411579eccb\u0022,\u0022definitionId\u0022:\u0022@tocabot/app/page-root\u0022,\u0022options\u0022:{},\u0022slots\u0022:{\u0022root\u0022:[\u0022892af051-88d3-450a-a8d2-ba8bbf15fc99\u0022]},\u0022classes\u0022:{\u0022root\u0022:[]}},\u0022892af051-88d3-450a-a8d2-ba8bbf15fc99\u0022:{\u0022id\u0022:\u0022892af051-88d3-450a-a8d2-ba8bbf15fc99\u0022,\u0022name\u0022:\u0022Flex Layout_Uzqt\u0022,\u0022definitionId\u0022:\u002268ee4f579a09602dc3a17bf7\u0022,\u0022slots\u0022:{},\u0022options\u0022:{},\u0022slotProps\u0022:{},\u0022classes\u0022:{\u0022root\u0022:[]}}},\u0022viewports\u0022:{\u0022414\u0022:[],\u0022768\u0022:[],\u00221280\u0022:[],\u00221440\u0022:[]}}",
+    "parameters": [],
+    "version": "0.0.0",
+    "workspaceId": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
+    "resourceId": "b2fd0467-3de0-42ef-b1ab-06c6c2e99ad5",
+    "name": "page 2"
+  }
+}
