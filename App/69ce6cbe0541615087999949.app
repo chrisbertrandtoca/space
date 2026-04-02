@@ -1,18 +1,30 @@
 {
   "metadata": {
-    "id": "69ce2cdd646e8877f51948ce",
-    "contentHash": "UeEcmkX7KTSSvx\u002B9dqMMyRYUHvLN\u002BavXb/JjQLS25qI=",
+    "id": "69ce6cbe0541615087999949",
+    "contentHash": "1kk3EkUe/hY05uaR01iZMtg0/BFGHqRUmnsSkgbKHJc=",
     "platformVersion": "10.0.0",
-    "revisionId": "b6dd4dd3-188f-44ba-beb5-07b63d3f09eb",
-    "updatedAt": "2026-04-02T12:57:03Z",
+    "revisionId": "14340db3-f8bd-47f9-8335-e83dea1aa138",
+    "updatedAt": "2026-04-02T13:19:04Z",
     "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "createdAt": "2026-04-02T13:18:54Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "branch": "next"
   },
   "content": {
-    "appId": "69ce2cdd646e8877f51948ce",
-    "rootSlug": "major-orchard-5594",
+    "appId": "69ce6cbe0541615087999949",
+    "rootSlug": "conscious-perfume-9407",
     "associatedId": "cb3e6503-0240-4df6-87d6-5afff481116d",
-    "description": "asd",
+    "description": "",
+    "pages": [
+      {
+        "id": "54e7f07b-6cf1-4cae-84d8-e54eea8ec6a9",
+        "pageId": "69ce6cc8054161508799994a",
+        "pageEntityId": "ccaa41b4-9e17-4a05-99a5-5cf8c6d26e11",
+        "slug": "",
+        "name": "Home",
+        "parameters": []
+      }
+    ],
     "dependencies": [],
     "parameters": [
       {
@@ -21,19 +33,6 @@
         "value": true
       }
     ],
-    "auth": {
-      "appTeamId": "36c7192b-e689-4b55-8504-ce91378a49ae",
-      "secret": "bfecbfe3b8e9958ef8b52dcdd0324f7e",
-      "provider": {
-        "type": "UserPassProvider",
-        "usernameField": "username",
-        "passwordField": "password",
-        "loginPageId": "d3399baf-43e1-460d-9389-c4bc58c93d6b",
-        "allowRegistration": true,
-        "approvalField": "approved"
-      },
-      "isUserPassProvider": true
-    },
     "favicon": "",
     "theme": {
       "palette": {
@@ -84,7 +83,7 @@
       }
     },
     "workspaceId": "375fd6cf-d842-461d-b4c7-ae3e1d3ac588",
-    "resourceId": "69ce2cdd646e8877f51948ce",
-    "name": "new app"
+    "resourceId": "69ce6cbe0541615087999949",
+    "name": "next"
   }
 }
